@@ -20,7 +20,7 @@ Installation
 Clone this repository:
 bash
 Copy code
-git clone https://github.com/pkshrivastav/hangman-game.git
+git clone https://github.com/pkshrivastav/codealpha1-python-/blob/main/hm.py
 cd hangman-game
 Run the game:
 bash
@@ -53,7 +53,7 @@ Financial API access (e.g., Alpha Vantage, Yahoo Finance API)
 Installation
 Clone the repository:
 bash
-git clone https://github.com/yourusername/stock-portfolio-tracker.git
+git clone https://github.com/pkshrivastav/codealpha1-python-/blob/main/spt.py
 cd stock-portfolio-tracker
 Install dependencies:
 bash
@@ -93,7 +93,7 @@ Installation
 Clone the repository:
 bash
 Copy code
-git clone https://github.com/yourusername/text-chatbot.git
+git clone https://github.com/pkshrivastav/codealpha1-python-/blob/main/bc.py
 cd text-chatbot
 Install required libraries:
 bash
@@ -102,11 +102,11 @@ pip install -r requirements.txt
 Download necessary NLTK or spaCy data (depending on your choice of library):
 python
 Copy code
-# For NLTK
+For NLTK
 import nltk
 nltk.download('popular')
 
-# For spaCy
+For spaCy
 python -m spacy download en_core_web_sm
 Usage
 Run the chatbot:
@@ -142,7 +142,7 @@ Installation
 Clone the repository:
 bash
 Copy code
-git clone https://github.com/yourusername/task-automation-scripts.git
+git clone https://github.com/pkshrivastav/codealpha1-python-/blob/main/Taps.py
 cd task-automation-scripts
 Install dependencies:
 bash
